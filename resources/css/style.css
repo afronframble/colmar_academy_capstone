@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+}
+
+.header {
+    text-transform: uppercase;
+    font-family: Verdana, sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+}
+
+footer {
+    font-size: 12px;
+    color: gray;
+}
