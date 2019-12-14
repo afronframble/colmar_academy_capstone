@@ -25,6 +25,7 @@ h4 {
     font-weight: normal;
     padding: 10px;
     text-align: left;
+    display: inline;
 }
 
 ul {
@@ -32,7 +33,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    float: right;
 }
 
 li {
@@ -47,62 +47,35 @@ footer {
     color: gray;
 }
 
+.navigate {
+    float: right;
+    font-size: 16px;
+}
+
+.banner {
+    margin: 0;
+}
+
+.banner img {
+    padding: 32px 24px;
+}
+
 .oncampus {
     background-color: lightgray;
 }
 
-.banner {
-    width: 300px;
+.start-button {
+    padding: 8px;
 }
 
-.infomain {
-    width: 300px;
+.imglarge {
+    width: 60%;
 }
 
-.infoorientation {
-    width: 300px;
+.imglarge {
+    width: 60%;
 }
 
-.infocampus {
-    width: 300px;
-}
-
-.infoguest {
-    width: 300px;
-}
-
-.coursesoft {
-    width: 300px;
-}
-
-.coursecompart {
-    width: 300px;
-}
-
-.coursedesign {
-    width: 300px;
-}
-
-.coursedata {
-    width: 300px;
-}
-
-.coursebus {
-    width: 300px;
-}
-
-.coursemarket {
-    width: 300px;
-}
-
-.video {
-    width: 300px;
-}
-
-.thesisfisma {
-    width: 300px;
-}
-
-.thesisnowthen {
-    width: 300px;
+.imgmedium {
+    height: auto;
 }
